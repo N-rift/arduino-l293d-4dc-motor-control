@@ -18,6 +18,10 @@ Program four DC motors to perform the following sequence:
 - Breadboard
 - Jumper Wires
 
+## setup Photo
+![Physical setup](look_at_me.png)
+
+
 ## Pin Configuration
 
 ### L293D #1
